@@ -1,0 +1,4 @@
+html,body,#root { height:100%; margin:0; font-family: Inter, Arial, sans-serif }
+.app { display:flex; height:100vh }
+.sidebar { width:320px; border-right:1px solid #eee; padding:12px; box-sizing:border-box }
+.canvas { flex:1; }
